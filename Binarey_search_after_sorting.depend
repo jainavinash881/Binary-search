@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517797093 source:d:\new folder\binarey_search_after_sorting\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
